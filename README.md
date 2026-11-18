@@ -1,5 +1,7 @@
 # Strong Password Generator (Portable)
 
+[![Ko-fi](https://img.shields.io/badge/Support%20me-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/gexos)
+
 A simple, portable Windows app to generate strong passwords and passphrases locally (offline).
 
 If you just want to **use** it, go to the **Releases** page of this repo and download the latest ZIP.
